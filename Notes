@@ -144,6 +144,32 @@ The idea being passive exercises
 	running on android. Not perfect, but there is a lot there. 
 
 
+ :b: windows backed-up programs :b:
+-------------------------------------
+(mostly portable apps):
+-- Everything (local file search)
+-- clcl (clipboard manager)
+-- abiword (portable)
+-- 7zip (portable, for encryption)
+-- blender 3.0
+-- blender 2.5
+-- firealpaca (whatever version)
+-- gimp (old version, portable)
+-- audacity (probably older version)
+-- Gnumeric (I think 1.10.16.0, portable version)
+-- grepWinPortable (a front end for grep)
+-- gVimPortable (8.2, but version isn't important)
+		(graphic version makes find/replace easier)
+-- imgBurnPortable
+-- labchirp 1.00
+-- miniPaint (it's a single-webpage graphic editor)
+-- paint tool sai
+-- sunvox 
+-- tcc (windows API version)
+-- tilestudio
+-- typerTaskPortable
+-- VLCPortable (version isn't important, can get older one)
+
 
 
  :b: Minimal travel/stuff settup :b:
