@@ -1,0 +1,522 @@
+(bookmarking-tags from vimrc, can search the ':b'+':' tags below
+	with a conventional text-editor)
+
+
+
+ :b: STRENGTH_PASSIVE :b:
+The idea is being passive exercises 
+(As are done at same time as doing something else: no time commitment)
+-- GRIP/ARM STRENGTH --- walking to bathroom/back to brush teeth
+	-- use grippers with a gauge OR a rag bundled up in a pinch
+	-- 4x2-3 sets, pray/mantra to keep count
+	-- go light/heavy days. (can push for 10 second isos at times)
+	DOUBLE OVERHAND/DOUBLE UNDERHAND/TWIST/HAND OPENERS 
+		( steel-bending grips )
+		(press against chest/hip for resistance, these 
+		  isometric presses while gripping exercises most of arm)
+		-- focus on one side of grip ( 2 finger grips, one sided):
+			-- overhand- pointer, underhand-pinkie, twist-thumb
+		-- hand openers are stretching fingers, do 1 big set
+-- LEG STRENGTH --- flossing
+	-- stand in wing-chun stance
+	-- pull shoulders towards head, practice front/back bends
+		(upper-back only focus shoulders/neck, lower back static)
+		(stomach vacuums to some degree on these too)
+-- MOBILITY/FLEXIBILITY --- brushing teeth/water pick
+	-- back bend, static holds. Lean forward at hip, as not to put 
+		weight on lower back. (pivot ribcage)
+-- PRESSURE POINTS/KNUCKLES --- standing up/down in some cases
+	-- press with knuckles (pinkie side and center) when standing up
+	-- pressure points: press with pinkie side knuckle. 
+		(grind and twist knuckles)
+	-- in reality, a sharpie works for pressure points. 
+-- JUGGLING --- hand washing
+	-- juggle towel to dry hands, be creative
+	-- can 'shot-put' towel, keep one side of towel gripped so 
+		it can be pulled back, for target practice
+		(works in general to practice short-range target practice)
+-- TONGUE EXERCISES --- drinking water
+	-- swish water around mouth with tongue to wash mouth out after 
+		eating. (can rotate neck too)
+-- SELF DEFENSE --- 'the fence/I have to.../I wonder.../be friendly'
+	-- (these are mostly to AVOID conflict, or during non-physical 
+		confrontations)
+	-- 'the fence'- hold hands in a non aggressive gesture in front of
+		body to deter/get hands ready in case anything happens
+		-- like rubbing palm, a 'fake' gesture 
+		-- the presence of a 'barrier' is a deterrent. 
+	-- 'I have to...' The common one is "I have to crap",
+		the idea being an excuse to leave a given situation
+	-- 'I wonder...' (followed by confusing unrelated pondering)
+		From Derren Brown, the idea being it breaks peoples 
+		concentration on topic at hand.
+	-- 'what's that?' same as above, a throw out distraction. 
+	-- 'be friendly' - not confrontational. 
+-- PASSIVE DRAWING EXERCISE --- 
+	while going to the bathroom (yeah) look at something 
+	in room (walls, towels, whatever), mentally draw it a few times
+	(look away/close eyes when drawing it, see 'DRAWING' section
+		below for more exercises) 
+	-- literally draw it in mind, line by line. 
+	-- will get it wrong, check, see what got wrong, try again. 
+	-- shoot for 3x perfect without looking 
+		(as time here is limited, whatever in time allotted) 
+-- MEMORIZATION:
+	beyond the MAJOR SYSTEM for numbers,
+	-- remembering shopping lists by making something out of all items, 
+	-- closing eyes for a few seconds while walking, remembering 
+		what is in front of body those few steps
+		(can probably do passive drawing exercises with this one,
+			mentally drawing what I saw)
+	-- MAJOR system with passwords. 
+		(pick a phrase, convert it to number)
+	-- for actually memorizing stuff, think of a section of text 
+		as small chunks, pick 
+		a small section that can be repeated like a chant 
+		in mind, repeat it till memorized while doing something 
+		else, move on to next chunk ( sometimes need to backtrack,
+		takes several minutes per section, but time is spent
+		while doing something else more engaging, so 
+		it's pretty much zero effort.  ) 
+-- PRODUCTION: 
+	5 minutes (could be less, trying to get a 'fun' event)
+	doing something enjoyable, followed by an indefinite 
+	period doing something productive, repeat. 
+	(the productive period can be 10 seconds to 10 hours+:
+		the idea is priming the mind to keep working,
+		and giving a 'rest' period)
+-- AVOIDING WRITERS BLOCK:
+	2 methods:
+	-- fieldstone method: 'collect' ideas when seen throughout 
+		life, eventually stitch some of them together to compile 
+		them into something. As time is spent collecting,
+		forcing writing isn't really done. 
+	-- the SMBC (the comic) Zack Wienersmith method:
+		the mind stops coming up with new things if it 
+		gets no input: keep learning new stuff, the 
+		writers block should go away. 
+-- EXTRA: 
+	-- whistling is meditative (but potentially annoying)
+	-- flavored chap stick works as 'cologne' 
+	---- Below are needed, as I think it's more beneficial
+		to 'count' using something besides numbers to keep time,
+		not sure best method yet (was using lotus sutra)
+	-- psalm 91 (lotus sutra may work, but learning it's sketchy) 
+	-- heart sutra? Lotus sutra is tied to a demon summoning, 
+		(literally, the sutra ends with the story of binding 
+			a demon)
+		this one probably isn't. 
+	-- affirmations? daily? 
+
+
+
+
+
+ :b: PC/mini-PC settup :b:
+----------------------------------
+-- clipboard manager (this is mandatory)
+-- everything (windows) OR fzf for linux (again, mandatory) 
+-- graphic editor (firealpaca/gimp/etc)
+----- can use https://github.com/viliusle/miniPaint in a pinch for graphics
+-- vim (my personal vimrc does wonders)
+-- speed reading/text too speech app (made a single webpage for this)
+-- a web browser 
+-- tcc
+-- 'syncthing' 
+-- speed reading/text to speech app (have a static webpage for that)
+-- for phone:
+	-- a scanning app (openotes/ openscan/ google drive/rocketbook)
+		(probably 'notes' app on iphone)
+	-- termux on phone, wsl for windows	
+	-- https://github.com/viliusle/miniPaint (graphic editor)
+	-- a local-server: there are apps for this or local web pages
+		will not run. (can go online-only stuff)
+-- terminal apps for linux
+	-- if possible, install debian/alpine
+	-- ctrl+r for pulling previous commands (bash)
+	-- tab complete
+	-- mc (midnight commander
+	-- tmux (re-lookup hotkeys/config for mouse controls)
+	-- links browser
+	-- fzf (use 'CMD $(fzf)' to
+	-- dkjs (my personal interpreter) 
+-- gaming: most systems (old games) like AGS have a port for
+	running on android. Not perfect, but there is a lot there. 
+
+
+
+
+ :b: Minimal travel/stuff settup :b:
+-----------------------------------------
+-- THIS SETTUP IS ULTRA-MINIMAL(NO BAG), WILL NEED TO USE WHAT'S AROUND!!!
+--	(this gives a lot of wiggle room if in a situation more is needed)
+--------------------
+-- EXERCISE/GRIPPERS:
+	variable grippers (ones with gauge on them) for exercise/strength,
+	see above section on STRENGTH (these are personal preference, 
+	in reality basic calisthenics and isometrics don't NEED equiptment)
+-- NO-BAG/USE VEST-JACKET (jacket/vest + longseeve thin shirt):
+	-- jacket/vest is preferred over backpack 
+		 (scottevest, etc) with a compressible bag 
+		in pocket (jacket WITH scottevest/vest works)
+	-- stuff will be stored on person/in pockets (no bag needed)
+	-- a good large jacket: should have room to move around 
+		(as will have stuff under it) I use amazon basics puffer, 
+		it's cheap but durable (not ideal)
+	-- large light longsleeve overshirt 
+		(to wear OVER jacket- on it's own if needed)
+-- PACKABLE BAG-  
+	-- seriously, pack a small (tiny) packable bag in jacket:
+		it comes useful so many times.
+	-- can store jacket if needed
+-- EMERGENCY BLANKET:
+	(SOL is best brand, more durable less noisy, non-milar are better)
+		-- the trick with emergency blankets is to have a layer 
+			between them and body, a jacket is your friend.
+		-- This is plastic, so can double as a 
+			raincoat/under drying clothes/etc 
+		-- tie edges together (with string/rolled up paper) 
+			if needed (so doesn't fall off/move around)
+			(see below for where to get 'rope')
+		-- PACK IN ZIPLOCK BAG. 
+-- SHOES:
+	get some that work WITHOUT SOCKS (I use crock variants)
+	The reason is, no socks, less to wash. 
+		(I can take 1 small pair if needed)
+-- HAT:
+	packable. I no longer really use a 'knit' hat, but those do work 
+	-- wear a bandana UNDER hat- banadana cleans easier. 
+	-- WIDE BRIMMED, VENTED (via loose-knit or mesh outlets) 
+		(baseball caps work, but don't do much)
+-- CLOTHES (1 extra shirt, 1 pair pants):
+	THE TRICK: wear all clothes AT SAME TIME when traveling
+		(shirts over shirts/pants over pants), only 
+		take 1 extra pair, wash clothes when showering, 
+		NO UNDERWEAR/EXTRA STUFF (ONLY 1 pair pants/shirt)
+	-- the basic fruit-of-loom thin t-shirts (black) work and dry fast
+	-- for pants, NO JEANS. Thin walled cotton pants will dry quick,
+		but not that fast, quickdry pants are better, 
+		I prefer cotton
+	-- wash clothes while showering::
+		(note, basic hand washing of clothes is rubbing clothes
+			against themselves, below method is faster):
+		-- can probably wash 1 item per day. (only 2 pieces of 
+			clothes:shirt and pants, no socks or underwear)
+		-- apply bar-soap/etc to cloths before hand (if at all)
+			(bar soap can be applied dry) 
+		-- put clothes under water IMMEDIATELY when water is 
+			heating up/getting ready (BEFORE getting in shower)
+		-- let water drip on them when in shower
+		-- occasionally in shower shake/ wring clothes, 
+			This does NOT NEED TO BE DONE MUCH
+		-- keep water running and washing clothes when drying off
+			ONLY stop running water over clothes when leaving 
+			bathroom/ready to 'wring out' clothes
+			(the idea is the water will passively be rinsing
+			clothes when person is doing other things)
+		-- if still look dirty(water not coming out clean), 
+			wash by hand a bit 
+			(rub clothes against itself a bit)
+		-- this setup should be near 0 time to wash clothes
+		--  DRYING CLOTHES: wring out, then: wrap clothes in towel 
+			(hopefully, place has towels) and pat/hit towel 
+			a few times (this makes them dry much faster)
+		-- let dry on hanger, can put plastic/emergency blanket 
+			under them to catch initial possible drips
+-- BANDANAS:
+	take 2+, they dry super fast, have a million uses 
+	( 2 of which are air conditioning (wet, pat on back of shirt,
+		wet again, wrap around neck,
+	  and warmth- wrap around neck... not most visually appeasing 
+		thing, but functional) 
+-- CLEANING/MEDICAL:
+	-- EARPLUGS!!! (can store in glasses case)
+		-- THESE ARE MOST IMPORTANT THING, TAKE A FEW PAIRS
+	-- glasses case- can store stuff like sewing needle 
+		(store needle embedded in glasses-cleaning-cloth) 
+	-- ziplock bags are best containers for pills/supplements 
+	-- for toothbrush/etc- makeup bags (the kind that are mesh)
+	-- I go all out with tooth-cleaning- oral-b battery powered
+		toothbrush with usb-c charging batteries (lasts months)
+		a portable water pick/superfloss (floss can be pre-cut)
+		toothpaste,
+		pre-cut floss and a half toothbrush probably would work.
+	-- nail clippers (multi-purpose, store with toothbrush)
+	-- mirror- use a 'selfi-mirror', the convex kind
+		(small convex mirror, should be smaller than palm)
+	-- The head of a shaver works for ultra-minimalism, 
+		I use non-battery powered clippers 
+	-- if taking soap, stick with a bar (half bar?), can smear it on 
+		what needs to be washed DRY, so doesn't get wet. 
+	-- if taking a sponge- a cut down brillow-pad/scotch-bright pad 
+	-- supplements/pills- store in ziplock bags. 
+	-- if want, bring a SPOON (it's versitile, can work as knife)
+	-- if want, bring a MILITARY-KEYCHAIN-CAN-OPENER (not needed)
+-- DEODORANT/SOAP (chap stick/bar soap/ baking powder)
+	-- chapstick is great for cologne, and comes in many smells
+		tiny, super hard to break
+		(apply like solid cologne)
+	-- bar soap (applied dry, so don't gotta deal with it wet)
+		is easiest soap to use. 
+	-- baking powder: this is bomb, but looks sketchy (white powder)
+		-- good applied dry to hair/body too for dry-shower. 
+-- VALUABLES/DOCS (moneybelt):
+	-- a money belt/something to wear under clothes that can fit 
+		phone. This is for all important documents.
+-- ZIPLOCK BAGS:
+	-- pack extra, can store various loose things
+-- COMPASS: 
+	-- use a clip-on (carbiner) one, clip too jacket (they are tiny)
+	-- DON'T DISREGARD: THIS IS SUPER USEFUL!!!
+-- PENS/PAPER PAD:
+	-- I like pigma micron pens (take 3, .01-2 size), 
+		BIC WORKS FINE
+	-- paper pad is NOT needed, I do like one, though. 
+		that said: can improvise for stuff to write. 
+		(receipts/wrappers/etc for taking notes)
+-- ELECTRONICS:
+	-- phone,
+	-- charger ( can pack backup battery, or not)
+	-- mouse- logitec pebble 2 (mouse with 2 year battery life, 
+		use usb-rechargable batteries, can connect to phone+pc)
+	-- iclever folding keyboard (durable, 70 hour battery life, small)
+	-- earpiece (smaller than earphones) 
+	-- multi-headed usb-charger (makes life easier)
+	-- if want, a windows tablet or small laptop (MUST fit in jacket)
+	-- if want a light, nightcore has a TINY one (the 'tube')
+		that recharges. 
+	-- usb-c to to usb connector for plugging usb-storage in phone.
+-- FOOD (dark chocolate/wheat grass/ omega-3 & c/ water bottle):
+	-- 100% dark chocolate bars are like energy bars, but 
+		go further (acquired taste, take small bites)
+	-- wheatgrass juice POWDER goes a long way, and is a 
+		portable vegetable. 
+	-- omega-3 pills plus vitamin c pills are good. 
+	-- probably a plastic bottle is easiest, but personal taste
+	-- splashing water on bread/'cold soaking' stuff in plastic
+		bags can increase volume of dry good 
+		(beyond dampening bread, cold soaking never worked
+			great for me, wasn't filling)
+	-- in a microwave, splashing water on stuff FIRST makes it
+		less dry. 
+	-- fasting makes life easier.  
+	-- not being picky makes life easier. 
+-- IMPROVISED ROPE (twist paper/napkin/fabric)
+	-- any material twisted get surprisingly strong, use 
+		as a improvised binding tool. 
+-- IMPROVISE:
+	-- a grocery bag works as a bag in a pinch
+	-- bandanas/clothes can be jerry-rigged into a crazy
+		number of things: be creative.
+	-- string can be made by twisting any paper/fiber/plastic
+	-- a small amount of money typically goes further in 
+		situations than extra goods, as can be used for a lot. 
+	-- look around, be creative. 
+	-- towels/cloth/etc can make great padding for sleeping. 
+		(IF THEY ARE AROUND, NOT TAKEN WITH)
+	
+
+
+
+
+ :b: DESK SETUP (footrest) :b:
+-----------------------------------
+Basically, just have a footrest, beyond that basic stuff. 
+(bucket works for footrest) 
+See above for choice of mouse/keyboard.
+(I prefer tiny pcs/tablets, but that is personal preference)
+-- FOR A LIGHT: the nitecore tube can be hung over monitor as a light. 
+	(while still plugged in) 
+-- a cup works great for pens/knickknacks. 
+
+
+
+
+ :b: DRAWING METHOD :b:
+------------------------------------
+PASSIVE EXERCISE: practice while going to bathroom
+	(mentally draw something in room in room (towels/tiles/etc)) 
+FOR ANIMATING: animate ONE LINE AT A TIME:
+	-- literally draw ALL movement OF ONE LINE, frame by frame, 
+		Then move on to next line. 
+
+COMPOSITION TRICKS:
+	-- mentally 'draw' rough compositions (super low res)
+		till one 'clicks'
+	-- practice mentally drawing composition till it looks good
+		drawn in the mind multiple times.
+	--CLOTHS: 'YXZ' method- folds look like there
+		are 'y/x/z's under the folds pushing
+		them up (can look up method) 
+	-- 3 points/triangle composition (tezuka method):
+		choice 3 points of focus, 
+		should be a triangle, sides can be different lengths
+	-- use a mirror to test expressions/ hand positions/etc.
+	-- exaggerate expressions if going cartoon
+	-- use any visual shorthand/stereotypes/hints with what is in
+		characters hand/around them to tell a story with picture.
+	-- use exploding text/captions/etc. (ANY special effects,
+		think old comics) 
+	-- 's' curve/parabola/ spiral (loomis)
+		the idea is have the underlying composition have
+		these shapes in it. (gives a major 'pop') 
+	-- Kim Jung Gi perspective:
+		draw one 'plane', and project all other planes
+		in relation to that one (easier mentally than 3 point)
+	-- Kim Jung Gi cloth/armor:
+		give cloth/armor/etc volume projected OUT from
+		whoever is wearing it (make it thick) 
+	-- Studio Gibli colorization (can be patterns/greyscale):
+		%60 primary color
+		%30 secondary color
+		%10 accents
+	-- have all things point to a focal point 
+		(if a comic, lead to next panel) 
+-----------------------
+---- ACTUAL DRAWING:
+------------------------
+DRAW WITH BOTH HANDS,
+GRIP PEN SUPER RELAXED AND TOWARDS CENTER OF PEN
+	-- this reduces strain. 
+	-- wrap wrist (bandana works ) for long sessions.
+I put a few phone-scanner apps in the computer section,
+hopefully one works good enough. 
+----------------
+-----PRACTICE:
+----------------------- 
+FOR DRAWING:
+	-- first off, practice with non-dominate hand
+		till OK with it (AFTER/ DURING 
+		LEARNING WITH DOMINATE)
+	-- practice drawing without guides
+		(Kim-jung-ji style)
+	-- practice drawing with BOTH HANDS AT ONCE
+	(that is the goal, at least, mostly working)
+FOR MENTAL GAME:
+	(NOTE: for practicing/drawing, do NOT 
+		look at refrences during drawing/
+		mental drawing or between 3x sets (below))
+	-- practice drawing in mind 
+		(literally line by line image drawing
+			something as if drawing by had)
+	-- shoot for 3-'perfect' mind drawings without 
+		looking for practice. 
+	-- ONLY THEN try drawing it with pens. 
+	(the first few mind drawings a day are harder)
+FOR MENTAL GAME FOR MAKING ORIGINAL STUFF:
+	Kim Jung Gi looked at stuff from multiple angles,
+		mentally. 
+	That worked, but the other method a lot of people
+	use is focusing on 
+	DRAWING MULTIPLE ROUGHS AND SEEING WHICH LOOKS GOOD
+	(This can be done mentally, drawing in mind 
+		with very few details several 'rough' 
+		drafts (just outline works) 
+		and picking best) 
+FOR REFERENCES: 
+	A mirror is super useful ( a 'selfi-convex-mirror' works too)
+	Can always use references if helpful. 
+WHAT TO PRACTICE: 
+	What is interesting, anything to keep it interesting.
+	Some artists books (loomis/'how to draw marvel comics'/etc)
+	are excellent. 
+	
+
+
+
+
+ :b: COOKING (fast) methods :b:
+-----------------------------------
+I like to try to optimize cooking, the following
+are a few optimized cooking methods I have found 
+worked. Listing all the ways that did not work 
+would be a much bigger list. 
+NOTE: these are optimized methods,
+traditional cooking is typically superior
+-----------------------------------
+-- BASELINE:
+----------------------------------
+-- in a pinch- 100% dark chocolate (carry a bar, it lasts super long)
+-- wheatgrass juice- get powder, it works. (2x a day)
+-- vitamin c 500mg (great for tendons) plus omega 3 1x a day. 
+-----------------------------------
+-- TRAVEL FOOD:
+-------------------------------------
+-- sandwiches/wraps or whatever is around
+-- (crackers and non perishable junk food works,
+--	not super healthy but doesn't go bad)
+------------------
+-- CURRENT RECIPES/COOKING STYLES:
+------------------
+-------------------------------
+--- BLENDER: use a portable/single serving one,
+---		drink out of blender itself, 
+---		otherwise more stuff to clean
+-------------------------------
+-- COLD SOAK
+-----------------------------
+----	Generally, this is a bad idea, 
+----		(which I tried for years getting to work)
+----	stick with sandwiches/etc instead, don't eat as much. 
+---- 	a lot of weird stuff like pretzels work, 
+---- 		but the problem is cold-soaking isn't great
+---- 		on stomach: 100% dark chocolate or sandwiches 
+----		work better.
+----	THE ONE EXCEPTION IS SLIGHTLY DAMPENED BREAD: it's different,
+---		but filling (if you can get into it) 
+-------------------------------
+-- MICROWAVE
+--------------------------------
+---- Dampen any bread/etc before it goes in microwave
+---- 	(keeps it from drying out)
+---- FOR STUFF LIKE CORN TORTILLAS, THESE PLUS BEANS (CANNED)
+----	MAKES AN EXCELLENT 'TAMALE' ISH-THING (again, moisten tortillas)
+---- ALSO:
+---- vegetables come out GREAT in microwave 
+---- (sandwich melts can be made in advance for breakfast,
+----	sliced bread + hardboiled egg quartered + cheese, 60 seconds) 
+-------------------------------
+-- HEAT AND WRAP IN TOWEL METHOD (cotton towels only):
+--------------
+----- BASICS: bring to boil, wrap pan leave in towel, come back later. 
+----- 		(30 minutes, 1 hour)
+----- WHY IT WORKS: It's slow cooking, idea is 'thermos cooking', 
+-----		but works MUCH better with an actual pan, 
+-----		a cotton towel (maybe on a potholder, too) is all that is 
+-----		needed to keep food hot enough to keep cooking
+----- WHY COOK LIKE THIS: 
+-----		It's carefree, heat, set, walk away, come back with food.
+-----------------
+--  WHAT WORKS:
+--------
+-- OATMEAL: 1 part oats/3 parts water, NOT NEED TO STIR!!
+--		(30 minutes to 1 hour)
+--		Oats tend to be cooked under hydrated, this solves that
+---------
+-- PASTA: this is hit and miss, pasta should be up too water level,
+--	and easier to put IN the sauce (again, not positive of ratio)
+--	(oddly enough, beyond typical red/white sauces, 
+--		savory peanut butter sauce with garlic is bomb here)
+---------
+-- INSTANT RICE/ BEANS:- note, CANNED beans, 
+--	Instant rice cooked like this can take up 2-3x the water,
+--	comes out much more 'plump. Good with a bit of pasta in it. 
+----------
+-- HARDBOILED EGG: POUR HOT WATER -OVER- EGGS, THEN BRING BACK TO BOIL
+--	before warping in towel. 
+--	(pouring boiling water OVER cold eggs for the 
+--		initial 'adding-heat' bit is better as dropping
+--		eggs in boiling water can break them, 
+--		and the heat-shock is needed to loosen shell)
+--	(I haven't tested the 'wrap up and forget it' cooking method 
+--		with this, but supposedly works without the towel. 
+--		It did work great in an actual thermos)
+------------
+-- GRITS -SHOULD- work great, but haven't tried them
+-------------
+
+
+
+
+
+
