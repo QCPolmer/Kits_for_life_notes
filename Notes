@@ -110,6 +110,15 @@ The idea being passive exercises
 
 
 
+ :b: 100x brute force method :b:
+------------------------------------
+I've done this multiple times:
+be willing to fail 100 times when trying stuff. 
+(each time, try to learn something or 
+figure out what to study next)
+-- for pretty much anything, this is a good
+	starting point. 
+
 
 
  :b: PC/mini-PC settup :b:
@@ -125,6 +134,7 @@ The idea being passive exercises
 -- 'syncthing' 
 -- speed reading/text to speech app (have a static webpage for that)
 -- for phone:
+	-- if needed, google apps (word alternative + spreadsheet)
 	-- a scanning app (openotes/ openscan/ google drive/rocketbook)
 		(probably 'notes' app on iphone)
 	-- termux on phone, wsl for windows	
